@@ -1,0 +1,10 @@
+C:\imits\lab17\lab17\bin\Debug\lab17.exe.config
+C:\imits\lab17\lab17\bin\Debug\lab17.exe
+C:\imits\lab17\lab17\bin\Debug\lab17.pdb
+C:\imits\lab17\lab17\obj\Debug\lab17.csprojAssemblyReference.cache
+C:\imits\lab17\lab17\obj\Debug\lab17.Form1.resources
+C:\imits\lab17\lab17\obj\Debug\lab17.Properties.Resources.resources
+C:\imits\lab17\lab17\obj\Debug\lab17.csproj.GenerateResource.cache
+C:\imits\lab17\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+C:\imits\lab17\lab17\obj\Debug\lab17.exe
+C:\imits\lab17\lab17\obj\Debug\lab17.pdb
